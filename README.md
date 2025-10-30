@@ -1,10 +1,4 @@
-# WeatherApp using OpenWeatherAPI
-Owner: Lim Excelyynx
----
-
-## 📄 Youtube Video Source
-📘 [**THANK YOU SO MUCH CodeArry**](https://youtu.be/krUdJ87uxXc?si=5xHcpBIq0HYB96xg)
-
+# 📄 WeatherApp using OpenWeatherAPI
 ---
 
 ## 🧠 Overview
@@ -19,7 +13,7 @@ The **WeatherApp** is a simple project that uses JS HTML CSS and the free OpenWe
 
 --- 
 
-## 🎯 Key features
+## 🌟  Key features
 - User can search a city to obtain current weather and weather forecast for next few days
 - If city is invalid, "city not found" will be displayed
 - Images update accordingly to weather
@@ -28,6 +22,7 @@ The **WeatherApp** is a simple project that uses JS HTML CSS and the free OpenWe
 
 ## 💡 Author note
 > This project was developed as a self learn project from YouTube
+> 📘 [**THANK YOU SO MUCH CodeArry**](https://youtu.be/krUdJ87uxXc?si=5xHcpBIq0HYB96xg)
 
 
 
