@@ -60,6 +60,7 @@ body::before{
     padding: 20px;
 }
 
+
 .input-container {
     position: relative;
 }
@@ -200,8 +201,14 @@ body::before{
 }
 
 .section-message img {
-    height: 180px;
-    width: fit-content;
+    /* height: 180px;
+    width: fit-content;  */
+    width: 80%; 
+    height: auto;
+    max-width: 300px;
+    display: block;
+    margin: 0 auto;
+    object-fit: contain;
 }
 
 @media (max-width: 480px){
